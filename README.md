@@ -40,4 +40,16 @@
   <li><b>Assigned Supervisor</b>: The supervisor responsible for the order.</li>
 </ol>
 
+<p>Firstly, I converted the cells into a table by using <kbd>Cmd</kbd> + <kbd>T</kbd> in Excel.</p>
+
+### Step 2: Check for Duplicates Records
+
+<p>After understanding the dataset, I check for any duplicates first by Excel built-in functionality, "Remove Duplicates".</p>
+
+### Step 3: Check for Any Blanks or Irregular Values in Records
+
+<p>By using conditional formatting, I highlighted the blank cells. Since the highlighted rows were all empty, I deleted them. I didn't find any blank cells or irregular values.</p>
+
+
+
 
