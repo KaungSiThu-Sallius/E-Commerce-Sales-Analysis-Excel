@@ -21,4 +21,23 @@
 ## Cleaning the dataset
 ### Step 1: Understand the dataset
 
-<p>The dataset contains 5096 records of sales transactions between 11/01/2020 - 31/12/2022. <br>There are 21 columns of data, namely:</p>
+<p>The dataset contains 5096 records of sales transactions between 11/01/2020 - 31/12/2022. <br>There are 14 columns of data as below: </p>
+
+<ol>
+  <li><b>Order_Number</b>: Unique identifier for each order.</li>
+  <li><b>State_Code</b>: The code representing the state where the order was placed.</li>
+  <li><b>Customer_Name</b>: The name of the customer who placed the order.</li>
+  <li><b>Order_Date</b>: The date when the order was placed.</li>
+  <li><b>Status</b>: The current status of the order (e.g., Order, Processing, Shipped, Delivered).</li>
+  <li><b>Product</b>: The name or identifier of the product sold.</li>
+  <li><b>Category</b>: The category to which the product belongs.</li>
+  <li><b>Brand</b>: The brand of the product.</li>
+  <li><b>Cost</b>: The cost incurred by the business to acquire or produce the product.</li>
+  <li><b>Sales</b>: The revenue earned from selling the product.</li>
+  <li><b>Quantity</b>: The number of units sold in the order.</li>
+  <li><b>Total_Cost</b>: The total cost for the quantity sold (Cost * Quantity).</li>
+  <li><b>Total_Sales</b>: The total revenue for the quantity sold (Sales * Quantity).</li>
+  <li><b>Assigned Supervisor</b>: The supervisor responsible for the order.</li>
+</ol>
+
+
