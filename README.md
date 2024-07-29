@@ -50,6 +50,10 @@
 
 <p>By using conditional formatting, I highlighted the blank cells. Since the highlighted rows were all empty, I deleted them. I didn't find any blank cells or irregular values.</p>
 
+## Preparing the dataset
+### Step 1: Create a new column, State_Name from State_Code column
+
+<p>I extracted the unique state codes from the State_Code column using the UNIQUE formula. Next, I searched for the full names corresponding to these state codes and created a new sheet to map state codes to state names. Then, using <b>VLOOKUP</b> in the original Excel analysis sheet, I created a new column called State_Name and filled it with data obtained from the <b>VLOOKUP</b> formula.</p>
 
 
 
