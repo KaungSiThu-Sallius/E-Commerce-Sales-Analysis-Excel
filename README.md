@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Excel
+![image](https://github.com/user-attachments/assets/31d2d478-8204-462f-aacb-30d8703843c8)# E-Commerce-Sales-Analysis-Excel
 <p>In this analysis, we will examine key aspects of e-commerce sales data to uncover insights and trends that can inform business strategies and decision-making. The specific questions addressed in this analysis include:</p>
 <ol>
   <li><b>What are the top 5 best-selling products?</b>
@@ -116,6 +116,30 @@
 
 ### Creating Slicer and Timeline
 <p>I created a slicer and timeline to manipulate the data shown in charts. By using these tools, we can gain different insights through filtering.</p>
+
+## Dashboard
+<img width="1415" alt="Screenshot 2024-07-31 at 2 18 45 PM" src="https://github.com/user-attachments/assets/d3bfaed1-1632-4793-a7cc-028f3a36041b">
+
+## Analysis From Dashboard
+
+<p>By analyzing the dashboard, we can get an overview of the sales performance across different products, categories, and states. Observing these performances allows us to provide recommendations that will improve overall sales for the e-commerce website.</p>
+
+### Analysis 1: Need to Restock Inventory Between March and May and in September
+<p>Sales across all product categories tend to increase between March and May, and again in September. It's important to ensure inventory levels are sufficient during these peak periods to meet the higher demand.</p>
+
+### Analysis 2: Increase Marketing Efforts in July and August
+<p>Sales across all product categories tend to decrease in July and August. We need to run more marketing campaigns during these months, especially for the top-selling products: monitors, CPUs, and graphics cards.</p>
+
+### Analysis 3: Lowest and Highest Sales States
+<p>The chart shows that Andaman and Nicobar Islands have the lowest sales, while Maharashtra has the highest. Most states have consistent sales, with Gujarat and Uttar Pradesh having the second-highest sales. We should consider conducting surveys to analyze the reasons for low sales in Andaman and Nicobar Islands. For high-performing states, ensure sufficient stock to meet the high demand.</p>
+
+
+
+
+
+
+
+
 
 
 
