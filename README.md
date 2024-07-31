@@ -106,15 +106,16 @@
 <p>I created <b>Line Chart</b>, as Months in x-axis and Total Sales in y-axis.</p>
 <img src="https://github.com/user-attachments/assets/8ae92b99-45e3-471e-adcb-60c2cec9333d" width="600px"/>
 
+### For Metric 6, Total Sales by States
+<p>I again created <b>Line Chart</b>, as States in x-axis and Total Sales in y-axis.</p>
+<img src="https://github.com/user-attachments/assets/260edff2-42fd-48be-8d05-959bf6c17443" width="600px"/>
 
+### For Metric 7, Total Sales Precentage by Brand
+<p>I created <b>Pie Chart</b>, showing the Total Sales in percentage by Brand.</p>
+<img src="https://github.com/user-attachments/assets/498e5191-5a0e-4b37-a495-f2fce1d0c3ac" width="400px"/>
 
-
-
-
-
-
-
-
+### Creating Slicer and Timeline
+<p>I created a slicer and timeline to manipulate the data shown in charts. By using these tools, we can gain different insights through filtering.</p>
 
 
 
