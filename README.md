@@ -1,14 +1,14 @@
 # E-Commerce-Sales-Analysis-Excel
 <p>In this analysis, we will examine key aspects of e-commerce sales data to uncover insights and trends that can inform business strategies and decision-making. The specific questions addressed in this analysis include:</p>
 <ol>
-  <li><b>Which products have the highest sales?</b>
-    <p>Identifying the top-performing products in terms of sales volume and revenue.</p>
+  <li><b>What are the top 5 best-selling products?</b>
+      <p>Identifying the top 5 products with the highest total sales.</p>
   </li>
   <li><b>In what month do specific products experience low sales?</b>
     <p>Analyzing monthly sales trends to pinpoint periods of low sales for different products.</p>
   </li>
-  <li><b>Which product category has the highest sales?</b>
-    <p>Determining the most successful product categories based on overall sales figures.</p>
+  <li><b>In what months do specific categories experience the highest and lowest sales?</b>
+      <p>Analyzing monthly sales trends to pinpoint periods of both highest and lowest sales for different categories.</p>
   </li>
   <li><b>Which states have the highest and lowest sales?</b>
     <p>Assessing state-wise sales performance to identify geographic trends and opportunities.</p>
@@ -51,12 +51,21 @@
 <p>By using conditional formatting, I highlighted the blank cells. Since the highlighted rows were all empty, I deleted them. I didn't find any blank cells or irregular values.</p>
 
 ## Preparing the dataset
-### Create a new column, State_Name, from State_Code column
+### Creating new columns
 
 <p>I extracted the unique state codes from the State_Code column using the UNIQUE formula. Next, I searched for the full names corresponding to these state codes and created a new sheet to map state codes to state names. Then, using <b>VLOOKUP</b> in the original Excel analysis sheet, I created a new column called State_Name and filled it with data obtained from the <b>VLOOKUP</b> formula.</p>
 
+<p>Afterward, I created a new column called Month by using the <b>TEXT</b> formula on the Order_Date column. Then, I added another new column called Profit by subtracting the Total Cost column from the Total Sales column.</p>
+
 ## Define Metrics for Dashboard
-### Creating 
+
+### Metric 1: Total Sales
+<b>Values:<b> Sales (By Sum)
+
+### Metric 2: Total Profit
+<b>Values:<b> Profit (By Sum)
+
+
 
 
 
