@@ -96,15 +96,15 @@
 
 ### For Metric 3, Top 5 Best Selling Products by Total Sales
 <p>I created <b>Bar Chart</b>, as Products in x-axis and Total Sales in y-axis.</p>
-![Metric 3](https://github.com/user-attachments/assets/79dd3f52-2844-4cbf-b18e-3b5c355773dc)
+<img src="https://github.com/user-attachments/assets/79dd3f52-2844-4cbf-b18e-3b5c355773dc" width="600px"/>
 
 ### For Metric 4, Best Selling Categories by Count
 <p>I again created <b>Bar Chart</b>, as Categories in x-axis and Counts in y-axis. </p>
-![Metric 4](https://github.com/user-attachments/assets/c109a486-3c93-4ea7-9fc4-6e80d32223e2)
+<img src="https://github.com/user-attachments/assets/c109a486-3c93-4ea7-9fc4-6e80d32223e2" width="600px"/>
 
 ### For Metric 5, Monthly Total Sales by Category
 <p>I created <b>Line Chart</b>, as Months in x-axis and Total Sales in y-axis.</p>
-![Metric 5](https://github.com/user-attachments/assets/8ae92b99-45e3-471e-adcb-60c2cec9333d)
+<img src="https://github.com/user-attachments/assets/8ae92b99-45e3-471e-adcb-60c2cec9333d" width="600px"/>
 
 
 
