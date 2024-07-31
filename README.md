@@ -58,12 +58,13 @@
 <p>Afterward, I created a new column called Month by using the <b>TEXT</b> formula on the Order_Date column. Then, I added another new column called Profit by subtracting the Total Cost column from the Total Sales column.</p>
 
 ## Define Metrics for Dashboard
-<p>We carate the following pivot tables to answer our business questions.</p>
+<p>We create the following pivot tables to answer our business questions.</p>
+
 ### Metric 1: Total Sales
 <b>Values:</b> Total Sales (By Sum)
 
 ### Metric 2: Total Profit
-<b>Values:</b> Total Profit (By Sum)
+<b>Values:</b> Profit (By Sum)
 
 ### Metric 3: Top 5 Best Selling Products by Total Sales
 <b>Values:</b> Total Sales (By Sum)<br>
@@ -78,6 +79,20 @@
 <b>Values:</b> Total Sales (By Sum)<br>
 <b>Rows:</b> Month<br>
 <b>Columns:</b> Category<br>
+
+### Metric 6: Total Sales by States
+<b>Values:</b> Total Sales (By Sum)<br>
+<b>Rows:</b> State_Name<br>
+
+### Metric 7: Total Sales Precentage by Brand
+<b>Values:</b> Total Sales (By Sum)<br>
+<b>Rows:</b> Brand<br>
+
+### Metric 8: Top 5 Most Profitable Products
+<b>Values:</b> Profit (By Sum)<br>
+<b>Rows:</b> Product<br>
+
+
 
 
 
