@@ -18,6 +18,8 @@
   </li>
 </ol>
 
+<p><b>Dataset Source: </b> <a>https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce/data</a></p>
+
 ## Cleaning the dataset
 ### Step 1: Understand the dataset
 
