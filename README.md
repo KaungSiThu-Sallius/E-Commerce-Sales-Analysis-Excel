@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Excel
+# E Commerce Sales Analysis (Excel)
 <p>In this analysis, we will examine key aspects of e-commerce sales data to uncover insights and trends that can inform business strategies and decision-making. The specific questions addressed in this analysis include:</p>
 <ol>
   <li><b>What are the top 5 best-selling products?</b>
