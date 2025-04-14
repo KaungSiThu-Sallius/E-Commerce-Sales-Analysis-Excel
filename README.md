@@ -120,7 +120,8 @@
 <p>I created a slicer and timeline to manipulate the data shown in charts. By using these tools, we can gain different insights through filtering.</p>
 
 ## Dashboard
-<img width="1415" alt="Screenshot 2024-07-31 at 2 18 45 PM" src="https://github.com/user-attachments/assets/d3bfaed1-1632-4793-a7cc-028f3a36041b">
+![Screenshot 2025-04-14 at 6 12 02 PM](https://github.com/user-attachments/assets/837b7538-6541-4fae-8a46-c86703f39ce1)
+
 
 ## Analysis From Dashboard
 
